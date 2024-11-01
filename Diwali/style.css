@@ -1,0 +1,16 @@
+body{
+    background-image: url(image/diwali-firecracker.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: yellow;
+}
+big{
+    color:yellow;
+}
+h3{
+    color: yellow;
+}
